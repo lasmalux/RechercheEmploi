@@ -4,3 +4,11 @@ edouardvdm@hotmail.com
 24031996
 2122
 00011452653
+
+listHobbi
+
+-geek
+-sport
+-film
+-action
+-folclore
